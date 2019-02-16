@@ -1,10 +1,3 @@
-# Jalil Douglas
-#DSCI 1530--Computational Thinking and Programming
-#Program No.0
-#Name of Program -- Program Assignment 2
-# Due 2/8/2019
-
-
 def getinput():
     living_room_w = input("What is the width of the living room?\n")
     living_room_l = input("What is the length of the living room?\n")
